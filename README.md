@@ -11,8 +11,7 @@
 
 - 🏢 Actualmente estoy explorando el mundo del código como principiante.
 - 🏢 En mi camino hacia convertirme en un desarrollador, estoy aprendiendo en DAW
-- 🎓 Studies for Software Engineering at [London Metropolitan University](https://www.londonmet.ac.uk/)
-- 🎓 Studies for BCS HEQ at [Matrix Institute of Information Technology](http://www.matrix-edu.com/)
+- 🎓 Estudio desarrollo de paginas web
 - 🏡 Actualmente vivo en **España**
 - ⚡ **Datos Curiosos** : 🍕 🏉 🏏 🎥 🚞
 
