@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="220" viewBox="0 0 1600 220">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#F472B6"/><stop offset="0.5" stop-color="#C084FC"/><stop offset="1" stop-color="#7C3AED"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0D1117" stop-opacity="0"/><stop offset="1" stop-color="#0D1117" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="220" fill="#0D1117"/>
+  <path fill="url(#g)" opacity="0.16" d="M0 120 C 200 60, 400 170, 640 110 S 1100 40, 1320 100 S 1520 130, 1600 90 V220 H0Z"/>
+  <path fill="url(#g)" opacity="0.28" d="M0 150 C 240 100, 480 190, 760 140 S 1180 80, 1400 140 S 1540 160, 1600 130 V220 H0Z"/>
+  <path fill="url(#g)" opacity="0.55" d="M0 182 C 260 150, 520 210, 800 175 S 1240 135, 1440 178 S 1560 190, 1600 172 V220 H0Z"/>
+  <g fill="#F9A8D4">
+    <circle cx="260" cy="60" r="2.2" opacity="0.8"/><circle cx="520" cy="95" r="1.6" opacity="0.6"/>
+    <circle cx="905" cy="48" r="2" opacity="0.7"/><circle cx="1180" cy="80" r="1.5" opacity="0.6"/><circle cx="1420" cy="40" r="2.2" opacity="0.8"/>
+  </g>
+  <text x="800" y="78" text-anchor="middle" font-family="Constantia, Georgia, serif" font-size="22" letter-spacing="10" fill="#E5E7EB" opacity="0.85">サウル</text>
+</svg>

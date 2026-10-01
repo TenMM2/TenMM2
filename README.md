@@ -22,6 +22,6 @@
 
 <br/><br/>
 
-<img src="assets/footer.jpg" alt="" width="100%"/>
+<img src="assets/footer.svg" alt="" width="100%"/>
 
 </div>
