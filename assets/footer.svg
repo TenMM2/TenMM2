@@ -15,5 +15,5 @@
     <circle cx="260" cy="60" r="2.2" opacity="0.8"/><circle cx="520" cy="95" r="1.6" opacity="0.6"/>
     <circle cx="905" cy="48" r="2" opacity="0.7"/><circle cx="1180" cy="80" r="1.5" opacity="0.6"/><circle cx="1420" cy="40" r="2.2" opacity="0.8"/>
   </g>
-  <text x="800" y="78" text-anchor="middle" font-family="Constantia, Georgia, serif" font-size="22" letter-spacing="10" fill="#E5E7EB" opacity="0.85">サウル</text>
+  <text x="800" y="108" text-anchor="middle" font-family="'Yu Gothic','Hiragino Sans','Noto Sans JP','Meiryo',sans-serif" font-weight="300" font-size="76" letter-spacing="22" fill="#FFFFFF">サウル</text>
 </svg>
