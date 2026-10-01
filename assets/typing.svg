@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="44" viewBox="0 0 560 44"><style>text{font:400 19px Consolas,"Fira Code",monospace;fill:#D1D5DB;letter-spacing:1px}</style>
+  <text x="280" y="30" text-anchor="middle" opacity="0">自分を探している…<animate attributeName="opacity" values="1;1;1;0;0" keyTimes="0;0.0300;0.2200;0.2500;1" dur="16s" repeatCount="indefinite"/></text>
+  <text x="280" y="30" text-anchor="middle" opacity="0">discovering who I am<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.2500;0.2800;0.4700;0.5000;1" dur="16s" repeatCount="indefinite"/></text>
+  <text x="280" y="30" text-anchor="middle" opacity="0">one commit at a time<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.5000;0.5300;0.7200;0.7500;1" dur="16s" repeatCount="indefinite"/></text>
+  <text x="280" y="30" text-anchor="middle" opacity="0">前に進む<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.7500;0.7800;0.9700;1.0000;1" dur="16s" repeatCount="indefinite"/></text>
+  </svg>
