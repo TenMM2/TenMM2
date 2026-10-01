@@ -2,30 +2,26 @@
 
 <img src="assets/banner.jpg" alt="Saul Lazaro" width="100%"/>
 
-<br/>
+<br/><br/>
 
 <img src="assets/typing.svg" alt="" width="560"/>
 
-<br/><br/>
+<br/><br/><br/>
 
 # *Not perfect. Just better than yesterday.*
 <sub>昨日より、強く。</sub>
 
-<br/>
+<br/><br/>
 
-<table>
-  <tr>
-    <td><img src="assets/nana.jpg" alt="Nana" width="440"/></td>
-    <td><img src="assets/punpun.jpg" alt="Oyasumi Punpun" width="440"/></td>
-  </tr>
-</table>
+<img src="assets/gallery.jpg" alt="" width="100%"/>
 
-<br/>
+<br/><br/><br/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,vite,firebase,python,java,mysql,git,github,githubactions,linux,vscode,ai,ps&theme=dark" alt="stack" />
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,vite,firebase,python,java&theme=dark" alt="" /><br/>
+<img src="https://skillicons.dev/icons?i=mysql,git,github,githubactions,linux,vscode,ai,ps&theme=dark" alt="" />
 
 <br/><br/>
 
-<sub>saullazarocasterad@gmail.com</sub>
+<img src="assets/footer.jpg" alt="" width="100%"/>
 
 </div>
