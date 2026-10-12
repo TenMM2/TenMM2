@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.jpg" alt="Saul Lazaro" width="100%"/>
+<img src="assets/banner.jpg" alt="Saul L" width="100%"/>
 
 <br/><br/>
 
