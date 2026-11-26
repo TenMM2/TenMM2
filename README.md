@@ -1,4 +1,4 @@
-<img src="assets/hero.svg" alt="Saul L · Full Stack Developer and Project Manager" width="100%"/>
+<img src="assets/hero.svg" alt="Saul L · Full Stack Developer" width="100%"/>
 
 <br/>
 
@@ -7,7 +7,7 @@
 ### I build web apps end to end, and I'm moving into cybersecurity.
 
 IT support gave me the ground floor: Active Directory, VPN, 2FA and networks.<br/>
-Today I develop with **TypeScript, React, SQL, PHP and Oracle APEX**, and manage the projects around them.
+Today I develop with **TypeScript, React, SQL, PHP and Oracle APEX**.
 
 </div>
 
