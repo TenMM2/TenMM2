@@ -42,7 +42,7 @@ Today I develop with **TypeScript, React, SQL, PHP and Oracle APEX**.
 | 🌸 &nbsp;Now | Google Cybersecurity Certificate |
 | ⬜ &nbsp;Next | TryHackMe → CompTIA Security+ |
 
-<sub>Roadmap and write-ups live in <a href="https://github.com/TenMM2/cybersecurity-portfolio">cybersecurity-portfolio</a>.</sub>
+<sub>Roadmap and certification tracker live in <a href="https://github.com/TenMM2/cybersecurity-portfolio">cybersecurity-portfolio</a>.</sub>
 
 </div>
 
