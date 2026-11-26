@@ -1,27 +1,63 @@
+<img src="assets/hero.svg" alt="Saul L · Full Stack Developer and Project Manager" width="100%"/>
+
+<br/>
+
 <div align="center">
 
-<img src="assets/banner.jpg" alt="Saul L" width="100%"/>
+### I build web apps end to end, and I'm moving into cybersecurity.
 
-<br/><br/>
-
-<img src="assets/typing.svg" alt="" width="560"/>
-
-<br/><br/><br/>
-
-# *Not perfect. Just better than yesterday.*
-<sub>昨日より、強く。</sub>
-
-<br/><br/>
-
-<img src="assets/gallery.jpg" alt="" width="100%"/>
-
-<br/><br/><br/>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,vite,firebase,python,java&theme=dark" alt="" /><br/>
-<img src="https://skillicons.dev/icons?i=mysql,git,github,githubactions,linux,vscode,ai,ps&theme=dark" alt="" />
-
-<br/><br/>
-
-<img src="assets/footer-3.svg" alt="" width="100%"/>
+IT support gave me the ground floor: Active Directory, VPN, 2FA and networks.<br/>
+Today I develop with **TypeScript, React, SQL, PHP and Oracle APEX**, and manage the projects around them.
 
 </div>
+
+<br/>
+
+<img src="assets/h-work.svg" alt="Selected work" width="100%"/>
+
+<br/>
+
+<a href="https://github.com/TenMM2/incidencias-app"><img src="assets/card-incidencias.svg" alt="IT Helpdesk: ticketing app with row level security, built with Next.js and Supabase" width="100%"/></a>
+<p align="right"><a href="https://incidencias-app-nine.vercel.app"><b>Live demo →</b></a> &nbsp;·&nbsp; <a href="https://github.com/TenMM2/incidencias-app">Source code →</a></p>
+
+<a href="https://github.com/TenMM2/habit-workspace"><img src="assets/card-habit.svg" alt="Habit Workspace: local-first habit tracker with an AI assistant" width="100%"/></a>
+<p align="right"><a href="https://github.com/TenMM2/habit-workspace">Source code →</a> &nbsp;·&nbsp; <a href="https://github.com/TenMM2/habit-workspace/blob/main/SECURITY.md">Security notes →</a></p>
+
+<a href="https://github.com/TenMM2/jarvis-ai"><img src="assets/card-jarvis.svg" alt="Jarvis: voice-first AI assistant built on OpenJarvis" width="100%"/></a>
+<p align="right"><a href="https://github.com/TenMM2/jarvis-ai">Source code →</a></p>
+
+<br/>
+
+<img src="assets/h-path.svg" alt="The path" width="100%"/>
+
+<br/>
+
+<div align="center">
+
+| Status | Certification |
+|:--|:--|
+| ✅ &nbsp;Done | Google Cloud Cybersecurity Certificate |
+| ✅ &nbsp;Done | Cisco · Introduction to Cybersecurity |
+| ✅ &nbsp;Done | Google Workspace Administrator Professional Certificate |
+| 🌸 &nbsp;Now | Google Cybersecurity Certificate |
+| ⬜ &nbsp;Next | TryHackMe → CompTIA Security+ |
+
+<sub>Roadmap and write-ups live in <a href="https://github.com/TenMM2/cybersecurity-portfolio">cybersecurity-portfolio</a>.</sub>
+
+</div>
+
+<br/>
+
+<img src="assets/h-stack.svg" alt="Toolbox" width="100%"/>
+
+<br/>
+
+<img src="assets/stack.svg" alt="TypeScript, JavaScript, React, Next.js, HTML, CSS, PHP, Oracle APEX, SQL, Supabase, Firebase, Python, Git, GitHub Actions, Linux, Networking, Vitest, Claude Code" width="100%"/>
+
+<br/>
+
+<img src="assets/gallery.jpg" alt="Manga panels: a boat on a dark sea, and children watching a shooting star" width="100%"/>
+
+<br/>
+
+<img src="assets/footer.svg" alt="Not perfect. Just better than yesterday." width="100%"/>
