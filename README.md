@@ -1,4 +1,4 @@
-<img src="assets/hero.svg" alt="Saul L · Full Stack Developer" width="100%"/>
+<img src="assets/hero-v2.svg" alt="Saul L · Full Stack Developer" width="100%"/>
 
 <br/>
 
