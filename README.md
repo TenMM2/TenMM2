@@ -20,7 +20,7 @@ Today I develop with **TypeScript, React, SQL, PHP and Oracle APEX**.
 <a href="https://github.com/TenMM2/incidencias-app"><img src="assets/card-incidencias.svg" alt="IT Helpdesk: ticketing app with row level security, built with Next.js and Supabase" width="100%"/></a>
 <p align="right"><a href="https://incidencias-app-nine.vercel.app"><b>Live demo →</b></a> &nbsp;·&nbsp; <a href="https://github.com/TenMM2/incidencias-app">Source code →</a></p>
 
-<a href="https://github.com/TenMM2/habit-workspace"><img src="assets/card-habit.svg" alt="Habit Workspace: local-first habit tracker with an AI assistant" width="100%"/></a>
+<a href="https://github.com/TenMM2/habit-workspace"><img src="assets/card-habit-v2.svg" alt="Habit Workspace: local-first habit tracker with an AI assistant" width="100%"/></a>
 <p align="right"><a href="https://github.com/TenMM2/habit-workspace">Source code →</a> &nbsp;·&nbsp; <a href="https://github.com/TenMM2/habit-workspace/blob/main/SECURITY.md">Security notes →</a></p>
 
 <a href="https://github.com/TenMM2/jarvis-ai"><img src="assets/card-jarvis.svg" alt="Jarvis: voice-first AI assistant built on OpenJarvis" width="100%"/></a>
