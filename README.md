@@ -1,4 +1,4 @@
-<img src="assets/hero-v2.svg" alt="Saul L · Full Stack Developer" width="100%"/>
+<img src="assets/hero-v3.svg" alt="Saul L · Full Stack Developer" width="100%"/>
 
 <br/>
 
@@ -13,7 +13,7 @@ Today I develop with **TypeScript, React, SQL, PHP and Oracle APEX**.
 
 <br/>
 
-<img src="assets/h-work.svg" alt="Selected work" width="100%"/>
+<img src="assets/h-work-v2.svg" alt="Selected work" width="100%"/>
 
 <br/>
 
@@ -28,7 +28,7 @@ Today I develop with **TypeScript, React, SQL, PHP and Oracle APEX**.
 
 <br/>
 
-<img src="assets/h-path.svg" alt="The path" width="100%"/>
+<img src="assets/h-path-v2.svg" alt="The path" width="100%"/>
 
 <br/>
 
@@ -48,7 +48,7 @@ Today I develop with **TypeScript, React, SQL, PHP and Oracle APEX**.
 
 <br/>
 
-<img src="assets/h-stack.svg" alt="Toolbox" width="100%"/>
+<img src="assets/h-stack-v2.svg" alt="Toolbox" width="100%"/>
 
 <br/>
 
@@ -56,7 +56,7 @@ Today I develop with **TypeScript, React, SQL, PHP and Oracle APEX**.
 
 <br/>
 
-<img src="assets/gallery.jpg" alt="Manga panels: a boat on a dark sea, and children watching a shooting star" width="100%"/>
+<img src="assets/gallery-v2.jpg" alt="Manga panels: a winged climber on a snowy slope under the stars, and two figures looking over a town at night" width="100%"/>
 
 <br/>
 
